@@ -11,7 +11,7 @@ if [ ! $(which git) ]; then
 fi
 
 REPO=git@github.com:mikey179/instant-debian.git
-WORKPATH=/tmp/fkleine-debian-base
+WORKPATH=/tmp/mikey179-instant-debian
 
 echo "Cloning repository ${REPO} to ${WORKPATH}"
 git clone $REPO $WORKPATH
