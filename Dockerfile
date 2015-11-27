@@ -1,6 +1,6 @@
 FROM debian:jessie
 
-MAINTAINER Frank Kleine <frank.kleine@1und1.de>
+MAINTAINER Frank Kleine <instant-debian@frankkleine.de>
 
 WORKDIR /root
 
