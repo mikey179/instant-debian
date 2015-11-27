@@ -7,7 +7,7 @@ and my own [dotfiles](https://github.com/mikey179/dotfiles).
 ## Installation
 
 ```
-curl -sS  https://github.com/mikey179/instant-debian/raw/master/setup/install.sh | sh
+curl -sS  https://raw.githubusercontent.com/mikey179/instant-debian/master/setup/install.sh | sh
 ```
 
 I recommend you verify the contents of the downloaded file first, before piping
