@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian:buster
 
 MAINTAINER Frank Kleine <instant-debian@frankkleine.de>
 
