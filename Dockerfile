@@ -1,6 +1,6 @@
 FROM debian:buster
 
-MAINTAINER Frank Kleine <instant-debian@frankkleine.de>
+LABEL maintainer="Frank Kleine <instant-debian@frankkleine.de>"
 
 WORKDIR /root
 
